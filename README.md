@@ -8,6 +8,7 @@ This service was generated from the AsterForge `aster-service` template.
 - AsterForge documentation: [forge.astercosm.com](https://forge.astercosm.com/)
 - AsterForge Rust API documentation: [forge.astercosm.com/crates/rustdoc](https://forge.astercosm.com/crates/rustdoc/)
 - New project integration guide: [forge.astercosm.com/guide/new-project-integration](https://forge.astercosm.com/guide/new-project-integration)
+- AsterGate architecture RFCs: [`docs/rfcs/`](docs/rfcs/README.md)
 
 ## First Run
 
